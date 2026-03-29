@@ -104,4 +104,4 @@ For full device configurations, IP addressing tables, DHCP pools, ACL rules, and
 
 ## 🗂️ Packet Tracer Project File
 
-The original **`network.pkt`** file is included in this repository so you can open, explore, and reproduce the entire lab directly in Cisco Packet Tracer — all devices, connections, and configurations are already in place.
+The original **`.pkt`** file is included in this repository so you can open, explore, and reproduce the entire lab directly in Cisco Packet Tracer — all devices, connections, and configurations are already in place.
