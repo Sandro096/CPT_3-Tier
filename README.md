@@ -70,7 +70,7 @@ This lab simulates a realistic corporate network divided into three departments:
 
 | File | Description |
 |---|---|
-| `network_report.docx` | Full lab report with all configurations, IP tables, and test results |
+| `network_report.pdf` | Full lab report with all configurations, IP tables, and test results |
 | `network.pkt` | Original Cisco Packet Tracer project file |
 | `README.md` | This file |
 
