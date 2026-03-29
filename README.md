@@ -98,7 +98,7 @@ All end-to-end tests passed:
 
 ## 📄 Documentation
 
-For full device configurations, IP addressing tables, DHCP pools, ACL rules, and test results, refer to the attached **[network_report.pdf](./network_report.pdf)**.
+For full device configurations, IP addressing tables, DHCP pools, ACL rules, and test results, refer to the attached **[network_report.pdf](./Network_report.pdf)**.
 
 ---
 
