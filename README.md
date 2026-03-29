@@ -24,11 +24,11 @@ This lab simulates a realistic corporate network divided into three departments:
                        /                  \
                      C1                    C2          ← Core Layer
                     /  \                  /  \
-                  R1    R2 ----------- R2    R3        ← Distribution Layer
-                  |      |              |      |
-                  S1     S2             S2     S3      ← Access Layer L3 (3560)
-                 / \      |                    |
-               A1  A2    A3  A4  A5  A6        ...     ← Access Layer L2 (2960)
+                  R1     \-------R2-------/    R3      ← Distribution Layer
+                  |              |             |
+                  S1             S2            S3      ← Access Layer L3 (3560)
+                 / \             /\            /\
+               A1  A2          A3  A4        A5  A6    ← Access Layer L2 (2960)
 ```
 
 ### Layers
@@ -70,7 +70,7 @@ This lab simulates a realistic corporate network divided into three departments:
 
 | File | Description |
 |---|---|
-| `network report.docx` | Full lab report with all configurations, IP tables, and test results |
+| `network_report.docx` | Full lab report with all configurations, IP tables, and test results |
 | `network.pkt` | Original Cisco Packet Tracer project file |
 | `README.md` | This file |
 
